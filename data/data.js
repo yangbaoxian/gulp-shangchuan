@@ -18,7 +18,7 @@ module.exports=[{
                 name:"下雨了"
             },
             {
-                name:"拉屎拉"
+                name:"一样一样"
             }
         ]
         res.writeHead(200,{
